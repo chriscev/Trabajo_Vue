@@ -2,9 +2,9 @@
   <div id="app">
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
     <nav>
-      <router-link to="/">Inicio</router-link> | 
-      <router-link to="/about">pag1</router-link> | 
-      <router-link to="/contact">pag2</router-link>
+      <router-link to="/">Home</router-link> | 
+      <router-link to="/about">About</router-link> | 
+      <router-link to="/contact">Contact</router-link>
     </nav>
     <main>
       <router-view />
